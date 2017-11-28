@@ -14,4 +14,4 @@ Write the model to disk as "xgb.dat"
 
 prediction.py:
 Read in "clean_data_test.csv", "sample_submission.csv" and
-"xgb.dat". Create "submission.csv" for submission.  
+"xgb.dat". Create "submission.csv" for submission.   
